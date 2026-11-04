@@ -1,6 +1,6 @@
-## 26.10.35d7c7a
+## 26.11.2bdd19d
 
-Preview build of upstream [26.10.35d7c7a](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/26.10.35d7c7a), APK versionCode 1000001574.
+Preview build of upstream [26.11.2bdd19d](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/26.11.2bdd19d), APK versionCode 1000001588.
 
 ---
 
@@ -13,10 +13,10 @@ Preview build of upstream [26.10.35d7c7a](https://github.com/wxxsfxyzm/Installer
 - We appreciate any feedback!
 
 **更新日志（Changelog）:**
-- i18n: Translations update from Hosted Weblate ([#870](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/870)) (Weblate (bot))
-- feat: route app info intents to the uninstall flow (wxxsfxyzm)
-- feat: add AOSP signature badges with signing key details (wxxsfxyzm)
-- i18n: Translations update from Hosted Weblate ([#854](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/854)) (Weblate (bot))
-- feat: Add source stamp verification and bug fixes ([#867](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/867)) (wxxsfxyzm)
+- i18n: Translations update from Hosted Weblate ([#878](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/878)) (Weblate (bot))
+- feat: Implement Shizuku non-ADB installation and optimize APK analysis ([#895](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/895)) (wxxsfxyzm)
+- chore(deps): update miuix to 0.9.4-ea2dbb3a-SNAPSHOT (wxxsfxyzm)
+- fix: pass saved color spec preference to Miuix (wxxsfxyzm)
+- fix(deps): update dependency com.diffplug.spotless:spotless-plugin-gradle to v8.11.0 ([#894](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/894)) (renovate[bot])
 
-**Full Changelog:** [`26.09...26.10.35d7c7a`](https://github.com/wxxsfxyzm/InstallerX-Revived/compare/26.09...26.10.35d7c7a)
+**Full Changelog:** [`26.09...26.11.2bdd19d`](https://github.com/wxxsfxyzm/InstallerX-Revived/compare/26.09...26.11.2bdd19d)
