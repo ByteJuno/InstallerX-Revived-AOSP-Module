@@ -1,6 +1,6 @@
-## 26.11.2bdd19d
+## 26.11.caccb78
 
-Preview build of upstream [26.11.2bdd19d](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/26.11.2bdd19d), APK versionCode 1000001588.
+Preview build of upstream [26.11.caccb78](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/26.11.caccb78), APK versionCode 1000001596.
 
 ---
 
@@ -13,10 +13,10 @@ Preview build of upstream [26.11.2bdd19d](https://github.com/wxxsfxyzm/Installer
 - We appreciate any feedback!
 
 **更新日志（Changelog）:**
-- i18n: Translations update from Hosted Weblate ([#878](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/878)) (Weblate (bot))
-- feat: Implement Shizuku non-ADB installation and optimize APK analysis ([#895](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/895)) (wxxsfxyzm)
-- chore(deps): update miuix to 0.9.4-ea2dbb3a-SNAPSHOT (wxxsfxyzm)
-- fix: pass saved color spec preference to Miuix (wxxsfxyzm)
-- fix(deps): update dependency com.diffplug.spotless:spotless-plugin-gradle to v8.11.0 ([#894](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/894)) (renovate[bot])
+- fix: prevent crash when switching from Miuix to Material 3 (wxxsfxyzm)
+- i18n: Translations update from Hosted Weblate ([#897](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/897)) (Weblate (bot))
+- feat(ui): add OS4 glass styling to Miuix settings (wxxsfxyzm)
+- fix: respect target user in uninstall requests (wxxsfxyzm)
+- fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.13.0 ([#911](https://github.com/wxxsfxyzm/InstallerX-Revived/pull/911)) (renovate[bot])
 
-**Full Changelog:** [`26.09...26.11.2bdd19d`](https://github.com/wxxsfxyzm/InstallerX-Revived/compare/26.09...26.11.2bdd19d)
+**Full Changelog:** [`26.09...26.11.caccb78`](https://github.com/wxxsfxyzm/InstallerX-Revived/compare/26.09...26.11.caccb78)
